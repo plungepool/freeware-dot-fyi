@@ -1,0 +1,6 @@
+##### THIS ALLOWS US TO DEPLOY THE SITE FROM A GIT REPO ######
+---
+# deployment:
+#   tasks:
+#     - export DEPLOYPATH=/home/pluniwcv/wiki.plungepool.dev/
+#     - /bin/cp -r /home/pluniwcv/repositories/wiki-dot-plungepool-dot-dev/* $DEPLOYPATH

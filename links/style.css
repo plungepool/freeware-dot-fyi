@@ -1,0 +1,72 @@
+body { 
+	width: calc(100% - 200px);
+    max-width: 850px;
+    min-width: 360px;
+    margin: auto !important;
+    border: 35px none #00FF00;
+}
+
+pre { 
+	word-wrap:break-word;
+	white-space: pre-wrap;
+}
+
+/* unvisited link */
+a:link {
+  color: blue;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+/* visited link */
+a:visited {
+  color: blue;
+  text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: hotpink;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
+    /* FIXME: Pages with images are off-center, why?*/
+    /*Conflict wth img tag and .index?*/
+}
+
+.index {
+    margin: 0 auto;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.content {
+/*    margin: 0 auto;*/
+/*    text-align: center;*/
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer {
+    margin: auto;
+    width: 75px;
+}
+
+.wikilink {
+
+}
+
+.wikilink::before {
+    content: "[[";
+}
+
+.wikilink::after {
+    content: "]]";
+}
