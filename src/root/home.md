@@ -4,5 +4,5 @@
 
 #### latest: 
 
-- [[new music]] - embed new music
-- [[next show]] - list next shows.
+- [[new music]] - embed new music ![new](media/newgreen1.gif)
+- [[next show]] - list next shows ![updated](media/Updatedgreen.gif)

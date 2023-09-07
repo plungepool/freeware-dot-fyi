@@ -1,4 +1,4 @@
-# about.
+# about
 
 blah blah blah blah blah.
 
@@ -6,7 +6,7 @@ blah blah blah blah blah.
 
 *Photo: July 2018*
 
-## external links.
+## external links
 
 [bandcamp]()
 
@@ -14,6 +14,6 @@ blah blah blah blah blah.
 
 [instagram]()
 
-## contact.
+## contact
 
 *email*: [contact@freeware.fyi](mailto:)
