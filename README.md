@@ -9,4 +9,4 @@ Forked from [wiki-dot-plungepool-dot-dev](https://github.com/plungepool/wiki-dot
 3) Static HTML generated to site folder
 
 ## Todo:
-- 
+- Nothing yet!
