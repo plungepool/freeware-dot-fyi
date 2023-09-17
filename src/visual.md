@@ -1,4 +1,4 @@
-# visual
+# ![green_flame](../media/green_flame.gif) visual ![green_flame](../media/green_flame.gif)
 
 blah blah blah blah blah.
 

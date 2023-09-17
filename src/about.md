@@ -1,8 +1,8 @@
-# about
+# ![green_flame](../media/green_flame.gif) about ![green_flame](../media/green_flame.gif)
 
 blah blah blah blah blah.
 
-![me_64 2018-7-29](../media/me_64%202018-7-29.jpg)
+![godzilla0073.gif](../media/godzilla0073.gif)
 
 *Photo: July 2018*
 

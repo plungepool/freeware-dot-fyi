@@ -15,17 +15,21 @@ pre {
 
 a:text
 
+a {
+  color: slategray;
+  font-weight: bold;
+}
+
 /* unvisited link */
 a:link {
   color: slategray;
-  text-decoration: none;
   font-weight: bold;
 }
 
 /* visited link */
 a:visited {
   color: slategray;
-  text-decoration: none;
+  font-weight: bold;
 }
 
 /* mouse over link */

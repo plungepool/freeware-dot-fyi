@@ -1,4 +1,4 @@
-# shows
+# ![green_flame](../media/green_flame.gif) shows ![green_flame](../media/green_flame.gif)
 
 blah blah blah blah blah.
 
