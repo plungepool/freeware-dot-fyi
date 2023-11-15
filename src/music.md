@@ -2,10 +2,10 @@
 
 blah blah blah blah blah.
 
-![head construction](../media/head_construction.gif)
-
-![under construction](../media/under_construction.gif)
-
 ## new single
 
-embed here
+![stream](../media/music_stream.gif) ![youtube](../media/youtube.jpg)
+
+![download $$$](../media/music_dl_money.gif) ![itch.io](../media/itchio.png)
+
+![download free](../media/music_dl_free.gif) [![soulseek qt](../media/soulseek.png)](https://www.slsknet.org/news/)
