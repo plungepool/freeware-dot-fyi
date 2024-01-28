@@ -1,6 +1,6 @@
 # freeware-dot-fyi
 ## Electronic metal band homepage
-### [>View the live version here<]()
+### [>View the live version here<](https://freeware.fyi)
 
 Forked from [wiki-dot-plungepool-dot-dev](https://github.com/plungepool/wiki-dot-plungepool-dot-dev)
 
