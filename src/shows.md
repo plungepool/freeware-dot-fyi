@@ -1,11 +1,11 @@
 # ![green_flame](../media/green_flame.gif) shows ![green_flame](../media/green_flame.gif)
 
-[contact](contact.html) for booking.
+[contact here](contact.html) for booking.
 
 ![head construction](../media/head_construction.gif)
 
 ![under construction](../media/under_construction.gif)
 
-## list of shows
+<!---## list of shows
 
-date - place - time - link - etc
+date - place - time - link - etc--->
