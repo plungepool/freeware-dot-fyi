@@ -2,7 +2,7 @@
 
 freeware.fyi is an experiment in exploring alternatives to current paradigms of predatory music distribution. all music is streamable on youtube and free for download on soulseek(add freeware_fyi to your user list). 
 
-if you would like to purchase downloads and support the project monetarily, visit the itch.io page (tbd) chosen here as an alternative to bandc\*mp for their [open revenue sharing model](https://itchio.tumblr.com/post/112709605589/introducing-open-revenue-sharing).
+if you would like to purchase downloads and support the project monetarily visit the itch.io page (tbd), chosen as an alternative to bandc\*mp due to their non-corporate ownership and [open revenue sharing model](https://itchio.tumblr.com/post/112709605589/introducing-open-revenue-sharing).
 
 ## links
 
