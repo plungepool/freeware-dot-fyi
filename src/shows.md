@@ -1,6 +1,6 @@
 # ![green_flame](../media/green_flame.gif) shows ![green_flame](../media/green_flame.gif)
 
-blah blah blah blah blah.
+[contact](contact.html) for booking.
 
 ![head construction](../media/head_construction.gif)
 
