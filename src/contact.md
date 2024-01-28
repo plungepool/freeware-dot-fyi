@@ -6,4 +6,4 @@
 
 ## join email list
 
-(coming soon)
+(tbd)
