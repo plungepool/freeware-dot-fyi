@@ -1,6 +1,6 @@
 # ![green_flame](media/green_flame.gif) this is the homepage for freeware.fyi ![green_flame](media/green_flame.gif)
 
-### something something something something
+### freeware.fyi is a music project.
 
 #### latest: 
 
