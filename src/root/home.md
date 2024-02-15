@@ -5,8 +5,8 @@
 #### latest: 
 
 ![new](media/newgreen1.gif)<br>
-- [[new music]] - embed new music
+- [[new song]] - anthem for apathy
 
 ![updated](media/Updatedgreen.gif)<br>
-- [[next show]] - list next shows
+- [[everything]] - the website is new! click around
 
