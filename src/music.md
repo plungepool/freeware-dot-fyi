@@ -6,7 +6,7 @@ if you would like to purchase downloads and support the project monetarily visit
 
 ## discography
 
-#### [08/23/22 cryalot - touch the sun (freeware remix)](https://www.youtube.com/watch?v=IqDszuIYn88)
+### [08/23/22 cryalot - touch the sun (freeware remix)](https://www.youtube.com/watch?v=IqDszuIYn88)
 
 ## links
 
