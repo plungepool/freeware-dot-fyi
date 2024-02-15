@@ -5,8 +5,8 @@
 #### **latest**: 
 
 ![new](media/newgreen1.gif)<br>
-- [[new song]] - anthem for apathy
+- **[[new song]]** - anthem for apathy
 
 ![updated](media/Updatedgreen.gif)<br>
-- [[website]] - the whole website is new! click around
+- **[[website]]** - everything is new! click around
 
