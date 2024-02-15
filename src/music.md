@@ -4,6 +4,10 @@ freeware.fyi is an experiment in exploring alternatives to current paradigms of 
 
 if you would like to purchase downloads and support the project monetarily visit the itch.io page (tbd), chosen as an alternative to bandc\*mp due to their non-corporate ownership and [open revenue sharing model](https://itchio.tumblr.com/post/112709605589/introducing-open-revenue-sharing).
 
+## discography
+
+#### [08/23/22 cryalot - touch the sun (freeware remix)](https://www.youtube.com/watch?v=IqDszuIYn88)
+
 ## links
 
 ![stream](../media/music_stream.gif) [![youtube](../media/youtube.jpg)](https://www.youtube.com/@freeware_fyi)
