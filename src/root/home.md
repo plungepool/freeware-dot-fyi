@@ -1,6 +1,6 @@
 # ![green_flame](media/green_flame.gif) this is the homepage for freeware.fyi ![green_flame](media/green_flame.gif)
 
-### ![Rgreen](media/Rgreen.gif) ~\*~\*~the band name is the website~\*~\*~ ![Lgreen](media/Lgreen.gif)
+### ![Rgreen](media/Rgreen.gif) ~\*~\*~ the band name is the website ~\*~\*~ ![Lgreen](media/Lgreen.gif)
 
 #### latest: 
 
