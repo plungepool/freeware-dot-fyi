@@ -8,5 +8,5 @@
 - [[new song]] - anthem for apathy
 
 ![updated](media/Updatedgreen.gif)<br>
-- [[everything]] - the website is new! click around
+- [[website]] - the whole website is new! click around
 
