@@ -1,8 +1,8 @@
 # ![green_flame](media/green_flame.gif) this is the homepage for freeware.fyi ![green_flame](media/green_flame.gif)
 
-### ![Rgreen](media/Rgreen.gif) ~\*~\*~ the band name is the website ~\*~\*~ ![Lgreen](media/Lgreen.gif)
+### ![Rgreen](media/Rgreen.gif) ![skullspn](media/skullspn.gif) *the band name is the website* ![skullspn](media/skullspn.gif) ![Lgreen](media/Lgreen.gif)
 
-#### latest: 
+#### **latest**: 
 
 ![new](media/newgreen1.gif)<br>
 - [[new song]] - anthem for apathy
