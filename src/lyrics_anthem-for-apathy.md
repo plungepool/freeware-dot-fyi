@@ -1,3 +1,5 @@
+# anthem for apathy lyrics
+
 close enough to lay
 cemented in the streets
 you live amongst the moguls you make enough to eat
