@@ -12,7 +12,7 @@ this site was built from a [custom static site generator](https://github.com/plu
 
 [youtube](https://www.youtube.com/@freeware_fyi)
 
-[itch.io]() (tbd)
+[itch.io](https://freeware-fyi.itch.io)
 
 [twitter](https://twitter.com/freeware_fyi)
 

@@ -14,6 +14,6 @@ if you would like to purchase downloads and support the project monetarily visit
 
 ![stream](../media/music_stream.gif) [![youtube](../media/youtube.jpg)](https://www.youtube.com/@freeware_fyi)
 
-![download $$$](../media/music_dl_money.gif) ![itch.io](../media/itchio.png)
+![download $$$](../media/music_dl_money.gif) [![itch.io](../media/itchio.png)](https://freeware-fyi.itch.io)
 
 ![download free](../media/music_dl_free.gif) [![soulseek qt](../media/soulseek.png)](https://www.slsknet.org)
