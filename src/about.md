@@ -16,4 +16,4 @@ this site was built from a [custom static site generator](https://github.com/plu
 
 [twitter](https://twitter.com/freeware_fyi)
 
-[instagram]() (tbd)
+[instagram](https://www.instagram.com/freeware.fyi/)
