@@ -6,7 +6,7 @@ if you would like to purchase downloads and support the project monetarily visit
 
 ## discography
 
-### - [04/xx/24] [anthem for apathy (single)]() <span style="font-size:smaller;">[lyrics](lyrics_anthem-for-apathy.html)</span>
+### - [05/10/24] [anthem for apathy (single)]() <span style="font-size:smaller;">[lyrics](lyrics_anthem-for-apathy.html)</span>
 
 ### - [08/23/22] [cryalot - touch the sun (freeware remix)](https://www.youtube.com/watch?v=IqDszuIYn88)
 
