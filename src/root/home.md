@@ -5,7 +5,8 @@
 #### **latest**: 
 
 ![new](media/newgreen1.gif)<br>
-- **[[new song]]** - anthem for apathy
+- **[[music]]** - [anthem for apathy](music.html) (available 5/10/24)
+- **[[words]]** - [on youtube as a streaming platform](words_youtube.html)
 
 ![updated](media/Updatedgreen.gif)<br>
 - **[[website]]** - everything is new! click around
