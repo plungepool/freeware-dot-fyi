@@ -2,6 +2,10 @@
 
 videos and visuals in reverse chronological order.
 
+## millionaires - the weekend [freeware.fyi bootleg ver.]
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_pUhWFbZyMU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## anthem for apathy (single)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tZisldFKCsI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
