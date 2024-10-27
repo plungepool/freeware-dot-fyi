@@ -6,7 +6,7 @@ if you would like to purchase downloads and support the project monetarily visit
 
 ## discography
 
-### - [10/26/24] [millionaires - the weekend [freeware.fyi bootleg ver.]](https://www.youtube.com/watch?v=_pUhWFbZyMU)
+### - [10/26/24] [millionaires - the weekend [freeware.fyi bootleg ver.]](https://www.youtube.com/watch?v=ou7yEFzAelA)
 
 ### - [05/10/24] [anthem for apathy (single)](https://youtu.be/tZisldFKCsI) <span style="font-size:smaller;">[lyrics](lyrics_anthem-for-apathy.html)</span>
 
