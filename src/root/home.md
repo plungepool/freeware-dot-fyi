@@ -1,4 +1,4 @@
-# ![green_flame](media/green_flame.gif) this is the homepage for ![freeware_logo](media/freeware_logo.bmp) ![green_flame](media/green_flame.gif)
+# ![green_flame](media/green_flame.gif) this is the homepage for freeware.fyi ![green_flame](media/green_flame.gif)
 
 ### ![Rgreen](media/Rgreen.gif)        *the band name is the website*        ![Lgreen](media/Lgreen.gif)
 
