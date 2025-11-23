@@ -1,6 +1,6 @@
 # words on youtube
 
-[edit 11/22/25] as of a couple months ago youtube has started requiring a google login cookie in order to watch an embedded video, and if you're on a vpn then you are shut out from watching embeds in browser completely. this somewhat negates my original reason for using it, but it's still probably up there as far as being one of the most easily accessible and embeddable platforms. going to be looking into some alternatives like [peertube](https://joinpeertube.org/) in the future.
+{edit 11/22/25} _as of a couple months ago youtube has started requiring a google login cookie in order to watch an embedded video, and if you're on a vpn then you are shut out from watching embeds in browser completely. this somewhat negates my original reason for using it, but it's still probably up there as far as being one of the most easily accessible and embeddable platforms. going to be looking into some alternatives like [peertube](https://joinpeertube.org/) in the future._
 
 the choice to stream exclusively on youtube (for now) is not a statement of moral purity. as I write this, it has come out that last night google (likely highly illegally in this layman's opinion) [laid off youtube music workers mid-hearing](https://twitter.com/peepaw_/status/1763376791861735583) at austin city council. every corporation with a chokehold on music distribution participates in anti-labor practices [and often worse](https://inthesetimes.com/article/spotify-military-industrial-complex-daniel-ek-prima-materia-helsing). 
 
